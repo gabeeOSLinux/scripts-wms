@@ -1,0 +1,6 @@
+sudo xbps-install -S xorg xinit xorg-input-drivers xorg-video-drivers xrandr setxkbmap xauth font-misc-misc terminus-font dejavu-fonts-ttf dialog elogind dbus exfat-utils fuse-exfat bash-completion git psuinfo nano xdg-utils xdg-desktop-portal xdg-desktop-portal-gtk xdg-desktop-portal-kde xdg-user-dirs xdg-user-dirs-gtk libappindicator AppStream thermald libvdpau-va-gl vdpauinfo upower kitty pulseaudio alsa-plugins-pulseaudio alsa-utils pavucontrol btop dtrx p7zip ntp octoxbps void-repo-multilib void-repo-nonfree gvfs-afc gvfs-mtp gvfs-smb gvfs-gphoto2 udisks2 udiskie ntfs-3g pa-applet gnome-keyring gnome-screenshot gnome-calendar gnome-disk-utility fontmanager duf exa evince network-manager-applet adwaita-icon-theme rsync psmisc dkms unzip python3 python3-pip python3-setuptools python3-wheel python3-virtualenv-clone python3-dbus python3-gobject pango pango-devel libffi-devel xcb-util-cursor gdk-pixbuf openbox obconf obmenu-generator feh arandr nitrogen dunst Thunar thunar-volman thunar-archive-plugin xfce4-settings thunar-media-tags-plugin scrot btop tint2 rofi gtk-engine-murrine xarchiver viewnior kitty neofetch jq ImageMagick gsimplecal-gtk3 firefox bluez blueman curl wget zsh w3m inxi mpd ncmpcpp ranger conky ueberzug lxappearance telegram-desktop gedit gedit-plugins vscode
+
+
+
+
+
