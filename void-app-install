@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-sudo xbps-install xorg xinit xorg-input-drivers xorg-video-drivers xrandr setxkbmap xauth font-misc-misc terminus-font dejavu-fonts-ttf dialog elogind dbus exfat-utils fuse-exfat bash-completion psuinfo nano xdg-utils xdg-desktop-portal xdg-desktop-portal-gtk xdg-desktop-portal-kde xdg-user-dirs xdg-user-dirs-gtk libappindicator AppStream thermald libvdpau-va-gl vdpauinfo upower kitty pulseaudio alsa-plugins-pulseaudio alsa-utils pavucontrol btop dtrx p7zip ntp octoxbps void-repo-multilib void-repo-nonfree gvfs-afc gvfs-mtp gvfs-smb gvfs-gphoto2 udisks2 udiskie ntfs-3g pa-applet gnome-keyring gnome-screenshot gnome-calendar gnome-disk-utility duf exa evince network-manager-applet adwaita-icon-theme rsync psmisc dkms unzip python3
